@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyProjectSuite">
+    <test name="AllTests">
+        <classes>
+            <class name="com.project.tests.LoginAndSearchTest"/>
+            <class name="com.project.tests.RegistrationWithDataProvider"/>
+            <class name="com.project.tests.AddToCartTest"/>
+            <class name="com.project.tests.MenuNavigationTest"/>
+            <class name="com.project.tests.APITest"/>
+
+        </classes>
+    </test>
+</suite>

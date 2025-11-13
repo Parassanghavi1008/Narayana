@@ -5,21 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af7cabc2-6865-4555-892f-12c69754a104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/utils/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/utils/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/utils/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/utils/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/utils/TestDataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/utils/TestDataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/utils/WaitUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/utils/WaitUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/tests/APITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/tests/APITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/tests/AddToCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/tests/AddToCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/tests/LoginAndSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/tests/LoginAndSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/tests/MenuNavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/tests/MenuNavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/tests/RegistrationWithDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/tests/RegistrationWithDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Parassanghavi1008"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Parassanghavi1008/Narayana.git",
+    "accountId": "bc843426-2d1f-453c-8949-5a7835e192e6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -35,13 +61,21 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "TestNG./Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana/src/testng.xml.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana/src/test/java",
     "last_opened_file_path": "/Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.project.tests" />
+      <recent name="com.project.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana/src/testng.xml">
     <configuration name="All in Narayana" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Narayana" />
       <option name="PACKAGE_NAME" value="" />
@@ -50,8 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Narayana" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/paraskumarzumbaralalsanghavi/IdeaProjects/Narayana/src/testng.xml" />
         <item itemvalue="JUnit.All in Narayana" />
       </list>
     </recent_temporary>
